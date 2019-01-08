@@ -26,6 +26,8 @@ But, as when I work on the Windows platform (where I can have a full-fledged Vis
 ## Call to contribution!
 If, like me, you loved the idea of having a full-fledged Visual Studio on the Mac platform, feel free to contribute to this list. I shared it with Microsoft.
 
+[Go to the list](./requirementlist.md)
+
 Happy contibuting ! :)
 
 Tidjani Belmansour
