@@ -2,8 +2,8 @@
 
 | Id  | Requirement description | New feature / Existing but not well designed | Already implemented/ improved? |
 |:----------|:----------|:----------|:----------|
-| 1 | The 'Add new file' wizard is too poor in term of file creations options | Existing but not well designed | N |
-| 2 | There's no scaffolding feature for mvc controllers/views | New feature | N |
+| ~~1~~ | ~~The 'Add new file' wizard is too poor in term of file creations options~~ | ~~Existing but not well designed~~ | available in version 8.6 |
+| ~~2~~ | ~~There's no scaffolding feature for mvc controllers/views~~ | ~~New feature~~ | available in version 8.6 through right-click => Add => New scaffolding... |
 | 3 | Ability to right-click in a test method and select 'Run unit test' or 'Debug unit test' (just as in VS for Windows) | New feature | N |
 | 4 | Have the little icon on top of the test method's name (in the code editor) that allows to run or debug the unit test | New feature  | N |
 | 5 | Ability to visually edit an resx file (via a window, and not directly in XML) | New feature | N |
