@@ -12,4 +12,5 @@
 | 8 | Ability to filter files in Solution Explorer (just as in VS for Windows) | New feature | N |
 | 9 | Implementing Server Explorer or Cloud Explorer (as in Visual Studio for Windows) in order to be able to browser Azure resources and attach the debugger to a running instance. | New feature | N |
 | 10 | Implementing 'Peek Definition' as in Visual Studio for Windows  | New feature | N |
-| 11 |  | New feature | N |
+| 11 | Ability to navigate to view (cshtml file) from the controller's class | New feature | N |
+| 12 |  | New feature | N |
