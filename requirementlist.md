@@ -13,4 +13,6 @@
 | 9 | Implementing Server Explorer or Cloud Explorer (as in Visual Studio for Windows) in order to be able to browser Azure resources and attach the debugger to a running instance. | New feature | N |
 | 10 | Implementing 'Peek Definition' as in Visual Studio for Windows  | New feature | N |
 | 11 | Ability to navigate to view (cshtml file) from the controller's class | New feature | N |
-| 12 |  | New feature | N |
+| 12 | In the "New Project" Wizard, add a search box to filter by project type | New feature | N |
+| 13 | For Azure Functions Projects, in the Terminal window, it would be great if we could do a "CMD + click" to quickly navigate to the function's URL | New feature | N |
+| 14 |  | New feature | N |
